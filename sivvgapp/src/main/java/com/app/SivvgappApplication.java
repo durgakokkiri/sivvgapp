@@ -8,6 +8,7 @@ public class SivvgappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SivvgappApplication.class, args);
-	}
+		System.out.println("suvarna");
 
+}
 }
